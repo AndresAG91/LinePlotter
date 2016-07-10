@@ -1,0 +1,31 @@
+
+[general]
+name=LinePlotter
+qgisMinimumVersion=2.0
+description=Plot line shapes from .csv files
+version=0.1
+author=Andres Arguello Guillen and Abdenago Guzman Ledezma UCR
+email=aarguello@eie.ucr.ac.cr
+
+about=This plugin loads a .csv file with four columns that detail the X1, Y1, X2, Y2 coordinates of line objects and maps them into a shape file.
+
+tracker=github.com
+repository=github.com
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+tags= line, plot, csv, shape, lineplotter
+
+homepage=http://eperlab.eie.ucr.ac.cr/
+category=Plugins
+icon=icon.png
+
+
+experimental=True
+
+deprecated=False
+
