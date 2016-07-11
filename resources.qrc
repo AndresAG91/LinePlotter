@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/LinePlotter" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
